@@ -1,3 +1,3 @@
-# About Content v2
+# About me
 
-[Back home](/)
+I write code that works sometimes
