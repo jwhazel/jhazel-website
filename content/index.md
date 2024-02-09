@@ -1,3 +1,8 @@
+---
+title: "Home"
+description: "meta description of the page"
+---
+
 # Homepage
 
-Coming soon...
+:PostList
